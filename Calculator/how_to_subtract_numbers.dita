@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_subtract_numbers">
+    <title>How to  Subtract Numbers</title>
+    <shortdesc>Here you will find instructions for using your calculator app. to subtract
+        numbers.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_iyt_vvw_jdc">
+            <p>To successfully subtract numbers, you must understand subtraction.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Press the first number's button.</cmd>
+            </step>
+            <step>
+                <cmd>Press the (-) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number's button.</cmd>
+            </step>
+            <step>
+                <cmd>Press the (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_bg3_kzw_jdc">
+            <p>The result from the subtraction is displayed.</p>
+        </result>
+        <example id="example_s2k_d1x_jdc">Example:<p>You want to subtract 2 from 3. The equation
+                will look like 3-2=1. Press the 3 button. Press the minus (-) button. Press the 2
+                button. Press the equals (=) button.</p><p>The result, the number 1, will appear on
+                the display.</p></example>
+    </taskbody>
+</task>

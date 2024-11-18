@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_addition">
+    <title>What is Addition</title>
+    <shortdesc>Here you will learn the definition of addition and how to use it in the
+        app.</shortdesc>
+    <conbody>
+        <p>Addition allows you to find the combination of  first number with the second number in an
+            equation.</p>
+        <p>You can use the addition (+) sign in the app to add numbers.</p>
+    </conbody>
+</concept>

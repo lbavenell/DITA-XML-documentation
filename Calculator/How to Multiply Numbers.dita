@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_add_numbers">
+    <title>How to Multiply Numbers</title>
+    <shortdesc>Here you will find instructions for using your calculator app. to multiply
+        numbers.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_iyt_vvw_jdc">
+            <p>To successfully multiply numbers, you must understand multiplication.</p>
+        </prereq>
+        <steps id="steps_tjj_gdx_jdc">
+            <step>
+                <cmd>Press the first number's button.</cmd>
+            </step>
+            <step>
+                <cmd>Press the multiply (x) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number's button.</cmd>
+            </step>
+            <step>
+                <cmd>Press the (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_bg3_kzw_jdc">
+            <p>The result from the multiplication is displayed.</p>
+        </result>
+        <example id="example_s2k_d1x_jdc">Example:<p>You want to multiply 1 and 2. The equation will
+                look like 1x2=3. Press the 1 button. Press the multiply (x) button. Press the 2
+                button. Press the equals (=) button.</p><p>The result, the number 2, will appear on
+                the display.</p></example>
+    </taskbody>
+</task>

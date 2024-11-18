@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_multiplication">
+    <title>What is Multiplication?</title>
+    <shortdesc>Here you will learn the definition of multiplication and how to use it in the
+        app.</shortdesc>
+    <conbody>
+        <p>Multiplication allows you to find the multiple of the first number with the second number
+            in an equation.</p>
+        <p>You can use the multiplication (x) sign in the app to multiply numbers.</p>
+    </conbody>
+</concept>

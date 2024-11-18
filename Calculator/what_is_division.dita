@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_division">
+    <title>What is Division</title>
+    <shortdesc>Here you will learn the definition of division and how to use it in the
+        app.</shortdesc>
+    <conbody>
+        <p>Division allows you to find the separation of the first number from the second number in
+            an equation.</p>
+        <p>You can use the division (÷) sign in the app to divide numbers.</p>
+    </conbody>
+</concept>
